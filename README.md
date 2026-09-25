@@ -128,9 +128,9 @@ npm run dev
 
 ## 🌐 Project Links
 
-- **Live Website:** [ADD YOUR NETLIFY LINK](https://acquipredict.netlify.app/)
-- **GitHub Repository:** [ADD YOUR GITHUB REPOSITORY LINK](https://github.com/FatoomMohammed/-FatoomMohammed-acquipredict-.git)
-- **Demo Video:** [ADD YOUR DEMO VIDEO LINK](https://drive.google.com/file/d/10Mq1-txeL20xdfC5VRZyi-UUe32QvOir/view?usp=sharing)
+- **Live Website:** (https://acquipredict.netlify.app/)
+- **GitHub Repository:** (https://github.com/FatoomMohammed/-FatoomMohammed-acquipredict-.git)
+- **Demo Video:** (https://drive.google.com/file/d/10Mq1-txeL20xdfC5VRZyi-UUe32QvOir/view?usp=sharing)
 
 ---
 
