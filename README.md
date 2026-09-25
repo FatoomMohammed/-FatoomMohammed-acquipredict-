@@ -146,6 +146,7 @@ npm run dev
 ## 🏆 Smart India Hackathon 2026
 
 **Problem Statement:** SIH26017 — Predictive Analytics for Early Detection of Land Acquisition Delays
-**Team:** Ctrl Freaks • **Team ID:** SIHDS003
+**Team:** Ctrl Freaks
+• **Team ID:** SIHDS003
 
 **AcquiPredict — Predict → Explain → Simulate → Prioritize → Act**
